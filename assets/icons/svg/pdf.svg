@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="16px" viewBox="0 0 14 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>pdf</title>
+    <g id="研报网页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="研报详情页" transform="translate(-380.000000, -1663.000000)" stroke="#D8021C">
+            <g id="编组-6" transform="translate(360.000000, 80.000000)">
+                <g id="编组-3" transform="translate(0.000000, 1566.000000)">
+                    <g id="pdf" transform="translate(20.000000, 17.000000)">
+                        <path d="M9.79289322,0.5 L13.5,4.20710678 L13.5,15.5 L0.5,15.5 L0.5,0.5 L9.79289322,0.5 Z" id="矩形"></path>
+                        <path d="M9.79289322,0.5 L13.5,4.20710678 L13.5,5.5 L8.5,5.5 L8.5,0.5 L9.79289322,0.5 Z" id="矩形"></path>
+                        <path d="M2.5,13.5 C4.5,11.5 5.66666667,10.1666667 6,9.5 C6.33333333,8.83333333 6.5,7.33333333 6.5,5 C6.5,7.33333333 7,8.83333333 8,9.5 C9,10.1666667 10.1666667,10.6666667 11.5,11 C9.5,10.3333333 8,10.1666667 7,10.5 C6,10.8333333 4.5,11.8333333 2.5,13.5 Z" id="路径-4" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

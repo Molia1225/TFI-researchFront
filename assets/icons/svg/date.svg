@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>date</title>
+    <g id="研报网页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="研报首页" transform="translate(-360.000000, -371.000000)">
+            <g id="编组-11" transform="translate(360.000000, 180.000000)">
+                <g id="编组-5" transform="translate(0.000000, 188.000000)">
+                    <g id="date" transform="translate(0.000000, 3.000000)">
+                        <path d="M12.4444565,2.69737964 C12.675812,2.69737964 12.8878531,2.77784443 13.040357,2.91625128 L13.040357,2.91625128 L13.2500072,12.5356204 C12.9367173,13.0833412 12.7569438,13.1678084 12.5569771,13.1909387 L12.5569771,13.1909387 L1.55555797,13.1973796 C1.33777139,13.1973796 1.13738104,13.1260634 0.987219043,13.0023404 L0.987219043,13.0023404 L0.750007228,3.35913893 C1.11216122,2.77784449 1.32420324,2.69737964 1.55555797,2.69737964 L1.55555797,2.69737964 Z" id="路径" stroke="#8E8E8E" stroke-width="1.5" fill-rule="nonzero"></path>
+                        <rect id="矩形" fill="#8E8E8E" x="3.5" y="0" width="1.5" height="5" rx="0.75"></rect>
+                        <rect id="矩形备份" fill="#8E8E8E" x="9" y="0" width="1.5" height="5" rx="0.75"></rect>
+                        <rect id="矩形" fill="#8E8E8E" x="4" y="6.5" width="4" height="1.5" rx="0.75"></rect>
+                        <rect id="矩形" fill="#8E8E8E" x="4" y="9.5" width="6" height="1.5" rx="0.75"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

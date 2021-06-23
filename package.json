@@ -1,0 +1,52 @@
+{
+  "name": "tfi-research",
+  "description": "天风国际证券研报",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "analyze": "nuxt build -a",
+    "lint:js": "eslint --ext .js,.vue --ignore-path .gitignore .",
+    "lint": "npm run lint:js"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.13.1",
+    "@nuxtjs/proxy": "^2.1.0",
+    "@nuxtjs/style-resources": "^1.0.0",
+    "axios": "^0.21.1",
+    "babel-polyfill": "^6.26.0",
+    "bootstrap": "^4.5.0",
+    "bootstrap-vue": "^2.15.0",
+    "element-ui": "^2.15.1",
+    "less": "^3.12.2",
+    "less-loader": "^7.0.0",
+    "lodash": "^4.17.11",
+    "nodemon": "^2.0.7",
+    "nuxt": "^2.14.0",
+    "postcss-px2rem": "^0.3.0",
+    "uglifyjs-webpack-plugin": "^2.2.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/eslint-config": "^3.1.0",
+    "@nuxtjs/eslint-module": "^2.0.0",
+    "babel-eslint": "^10.1.0",
+    "babel-plugin-lodash": "^3.3.4",
+    "cache-loader": "^2.0.0",
+    "eslint": "^7.5.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-nuxt": "^1.0.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "lodash-webpack-plugin": "^0.11.5",
+    "prettier": "^2.0.5",
+    "postcss-cssnext": "^3.1.0",
+    "postcss-hexrgba": "^1.0.1",
+    "postcss-nested": "^4.1.2",
+    "postcss-preset-env": "^6.6.0",
+    "postcss-responsive-type": "^1.0.0",
+    "postcss-url": "^8.0.0",
+    "svg-sprite-loader": "^5.0.0"
+  }
+}

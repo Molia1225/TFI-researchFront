@@ -1,0 +1,24 @@
+// 选中的颜色
+@activeColor : #ED8500;
+// 默认的黑色字体
+@defaultColor: #161616;
+// 灰色字体，如尾部的字体
+@grayColor   : #909090;
+// 选中框的背景颜色
+@activeBgColor: #FFF7EC;
+
+.triangle-down(@size, @color) {
+  width: 0;
+  height: 0;
+  border-left: @size solid transparent;
+  border-right: @size solid transparent;
+  border-top: @size solid @color;
+}
+
+.triangle-up(@size, @color) {
+  width: 0;
+  height: 0;
+  border-left: @size solid transparent;
+  border-right: @size solid transparent;
+  border-bottom: @size solid @color;
+}
