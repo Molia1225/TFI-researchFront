@@ -1,4 +1,4 @@
-# tfcx-nuxt
+# research-nuxt
 
 ## Build Setup
 
